@@ -15,7 +15,7 @@ namespace MVCparcialJose.Models
             Colega_de_Trabajo,   //2
             Amigo,               //3
             Amigo_de_Infancia,   //4
-            Pariente             //5
+            Pariente             
         }
 
         [Key]
